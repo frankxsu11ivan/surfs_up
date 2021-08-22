@@ -21,6 +21,7 @@ results list looking at June and December temperature data is the deliverable.
 seven years of empirical date from hawaii.sqlite is queried and save into data frames.th results are plotted as temperature reference. 
 the data should be overlaid with more data to make this and effective communication tool.
 result over view:
+
 June average temperature is 74F
 
 December average temperature is 71.F
