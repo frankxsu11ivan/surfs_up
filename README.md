@@ -23,7 +23,7 @@ the data should be overlaid with more data to make this and effective communicat
 result over view:
 
 June average temperature is 74F
-
+https://github.com/frankxsu11ivan/surfs_up/blob/main/Mod%209%20Picts/June%20Temperature%20Plot.png
 December average temperature is 71.F
 https://github.com/frankxsu11ivan/surfs_up/blob/main/Mod%209%20Picts/Dec%20Temperature%20Plot.png
 https://github.com/frankxsu11ivan/surfs_up/blob/main/Mod%209%20Picts/Dec%20Temperature%20results.png
