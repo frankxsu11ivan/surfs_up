@@ -26,6 +26,7 @@ June average temperature is 74F
 
 December average temperature is 71.F
 https://github.com/frankxsu11ivan/surfs_up/blob/main/Mod%209%20Picts/Dec%20Temperature%20Plot.png
+https://github.com/frankxsu11ivan/surfs_up/blob/main/Mod%209%20Picts/Dec%20Temperature%20results.png
 ---unsolicted recommendation:
 	get the rest of the data
 
