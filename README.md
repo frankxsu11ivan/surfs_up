@@ -14,7 +14,7 @@ is the main challenge for Mod 9.
 	When cooled further, the airborne water vapor will condense to form liquid water (dew). 
 	When air cools to its dew point through contact with a surface that is colder than the air, 
 	water will condense on the surface. dew point, percipitation and temperature is important information when considering a waves and ice cream venture.
-	one peice of this information - temperature only - is working with biased data.
+	one peice of this information - temperature only - is working with biased data. So... with the focus being on ice cream - (Ice cream you scream, we all scream for ice 		cream), their is no bad month due to the temperature,  to open the ice cream store. Not water vapor, not temperature, not precipitation.
 
 ---Results. 
 results list looking at June and December temperature data is the deliverable.
